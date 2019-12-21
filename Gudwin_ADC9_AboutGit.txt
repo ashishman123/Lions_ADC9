@@ -1,0 +1,6 @@
+git clone is used to copy a repository.
+git push is used to send local commits to the master branch of the remote repository.
+git pull merges all the changes present in the remote repository to the local working directory.
+merge conflict is used to merge two different branch.
+git branch will list, create, or delete branches.
+git commit will create a snapshot of the changes and save it to the git directory.
