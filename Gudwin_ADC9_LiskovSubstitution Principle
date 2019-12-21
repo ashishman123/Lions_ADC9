@@ -1,0 +1,3 @@
+The principle defines that objects of a superclass shall be replaceable with objects of its subclasses without breaking the application.
+An override method of a subclass needs to accept the same input parameter values as the method of the superclass.
+When this principle is violated, it tends to result in a lot of extra conditional logic scattered throughout the application
